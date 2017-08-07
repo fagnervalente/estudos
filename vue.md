@@ -24,3 +24,4 @@ A primeira vista estou curtindo muito o `Vue.js` pois ele se assemelha muito com
 #### `Computed data` usa cache e `Methods` não
 Caso o retorno do método do `computed data` não tenha sido alterado a interface que utiliza este valor não será atualizada
 
+#### Prefira usar `Computed date` ao invés de `watch`
