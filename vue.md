@@ -25,3 +25,5 @@ A primeira vista estou curtindo muito o `Vue.js` pois ele se assemelha muito com
  > Caso o retorno do método do `computed data` não tenha sido alterado a interface que utiliza este valor não será atualizada
 
 #### Prefira usar `Computed date` ao invés de `watch`
+
+#### Existem alias para a captura de atalhos ex: `Ctrl+c` = `<input type="text" v-on:keyup.enter="doSomething()" />` 
