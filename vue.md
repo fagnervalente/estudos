@@ -28,4 +28,4 @@ A primeira vista estou curtindo muito o `Vue.js` pois ele se assemelha muito com
 
 #### Existem alias para a captura de atalhos 
 Para adicionar uma ação quando o usuário aperta Enter em um campo de texto
-`<input type="text" v-on:keyup.enter="doSomething()" />` 
+```<input type="text" v-on:keyup.enter="doSomething()" />``` 
