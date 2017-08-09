@@ -27,4 +27,5 @@ A primeira vista estou curtindo muito o `Vue.js` pois ele se assemelha muito com
 #### Prefira usar `Computed date` ao invés de `watch`
 
 #### Existem alias para a captura de atalhos 
-ex: `Ctrl+c` = `<input type="text" v-on:keyup.enter="doSomething()" />` 
+Para adicionar uma ação quando o usuário aperta Enter em um campo de texto
+`<input type="text" v-on:keyup.enter="doSomething()" />` 
